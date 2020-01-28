@@ -16,7 +16,7 @@ Which of the following describes the "orthogonality principle" of Wiener filter?
 
 **[-]** E[f(i,j)−f&#770;(i,j)]=0  
 **[-]** E[f(i,j)−y(i,j)]=0  
-**[-]** E[(f(i,j)−f&#770;(i,j))y<sup>∗</sup>(k,l)]=0   
+**[X]** E[(f(i,j)−f&#770;(i,j))y<sup>∗</sup>(k,l)]=0   
 **[-]** E[(f(i,j)−y(i,j))f&#770;<sup>∗</sup>(k,l)]=0    
 
 
@@ -32,7 +32,7 @@ In the Bayesian formulation, if p(f) denotes the image prior distribution, p(y|f
 
 **[-]** the joint distribution  
 **[-]** the likelihood  
-**[-]** the posterior distribution  
+**[X]** the posterior distribution  
 **[-]** the prior distribution  
 
 
